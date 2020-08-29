@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Andrew, proficient in Web technologies and interested in all stuff about software engineer!
+I am Andrew. I am proficient in Web technologies and interested in all stuff about software engineering!
 Here's [my blog](https://ctblog.netlify.app/) where I share my thoughts through words and codes!
 
 ## Repo Overview
@@ -7,7 +7,7 @@ Here's [my blog](https://ctblog.netlify.app/) where I share my thoughts through 
 I've fixed the issue of deep copy function. Please check this [PR](https://github.com/ramda/ramda/pull/3067) for more informations.
 
 ### azure-intelligent-edge-patterns
-A product which let users able to labeling, training, and seeing the real time inference result without writing a line of code!
+A product which let users able to label images, train model, and see the real time inference result without writing a line of code!
 Most of my contributions are the user interfaces, which is written in React, Redux, and Typescript!
 [Check this out](https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/factory-ai-vision/EdgeSolution/modules/WebModule/ui)!
 
@@ -20,3 +20,4 @@ Most of my contributions are the user interfaces, which is written in React, Red
 * GraphQL
 * Babylon.js (WEBGL)
 * Konva.js (canvas)
+* Node.js (Express)
